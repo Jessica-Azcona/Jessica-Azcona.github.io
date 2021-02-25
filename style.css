@@ -16,5 +16,11 @@ nav li{
 
 }
 .arriba{
+    display: flex;
+    position: relative;
     background-image: "carousel-bg.jpg";
+    justify-content:center; 
+}
+h1, h3{
+    color:white;
 }
