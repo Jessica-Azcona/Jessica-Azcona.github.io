@@ -1,0 +1,17 @@
+*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+nav{
+    display:flex;
+    background-color: #1fda9a;   
+    justify-content:flex-end; 
+}
+nav li{
+    background-color: #1fda9a;
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    display:inline-block;
+    width:10%;
+    padding:30px 40px;
+    color:white;
+
+}
