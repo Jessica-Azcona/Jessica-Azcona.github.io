@@ -1,4 +1,4 @@
-*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+
 nav{
     display:flex;
     background-color: #1fda9a;   
@@ -11,7 +11,6 @@ nav li{
     font-size:14px;
     display:inline-block;
     width:10%;
-    padding:30px 40px;
     color:white;
 
 }
