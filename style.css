@@ -11,13 +11,14 @@ nav li{
     font-size:14px;
     display:inline-block;
     width:10%;
+    padding:15px 10px;
     color:white;
 
 }
 .arriba{
     display: flex;
     position: relative;
-    background-image: "carousel-bg.jpg";
+    background-image: url"carousel-bg.jpg";
     justify-content:center; 
 }
 h1, h3{
